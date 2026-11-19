@@ -1,0 +1,13 @@
+Employee ID,Name,Department,Attendance (%),Tasks Completed,Attendance Category
+E101,Ajay,Development,95,42,Excellent
+E102,Banu,Testing,88,35,Satisfactory
+E103,Charan,Development,72,25,Poor
+E104,Divya,HR,96,30,Excellent
+E105,Eswar,Testing,85,38,Satisfactory
+E106,Farah,Development,91,45,Excellent
+E107,Gokul,HR,68,20,Poor
+E108,Hari,Testing,78,29,Satisfactory
+E109,Indhu,Development,98,48,Excellent
+E110,Jaya,HR,82,27,Satisfactory
+E111,Kiran,Testing,93,41,Excellent
+E112,Latha,Development,75,31,Satisfactory
