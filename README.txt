@@ -1,1 +1,0 @@
-Dashboard.png is a generated chart preview from the supplied dataset, not a screenshot of the user's Google Sheets interface. Replace or supplement it with your own Google Sheets dashboard screenshot if your instructor requires direct evidence.
